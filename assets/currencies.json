@@ -1,0 +1,14 @@
+[
+  {"code":"USD","name":"Dólar estadounidense","symbol":"$","decimals":2,"locale":"en_US"},
+  {"code":"EUR","name":"Euro","symbol":"€","decimals":2,"locale":"es_ES"},
+  {"code":"PEN","name":"Sol peruano","symbol":"S/","decimals":2,"locale":"es_PE"},
+  {"code":"MXN","name":"Peso mexicano","symbol":"$","decimals":2,"locale":"es_MX"},
+  {"code":"COP","name":"Peso colombiano","symbol":"$","decimals":0,"locale":"es_CO"},
+  {"code":"ARS","name":"Peso argentino","symbol":"$","decimals":2,"locale":"es_AR"},
+  {"code":"CLP","name":"Peso chileno","symbol":"$","decimals":0,"locale":"es_CL"},
+  {"code":"UYU","name":"Peso uruguayo","symbol":"$U","decimals":2,"locale":"es_UY"},
+  {"code":"BOB","name":"Boliviano","symbol":"Bs","decimals":2,"locale":"es_BO"},
+  {"code":"BRL","name":"Real brasileño","symbol":"R$","decimals":2,"locale":"pt_BR"},
+  {"code":"GTQ","name":"Quetzal","symbol":"Q","decimals":2,"locale":"es_GT"},
+  {"code":"GBP","name":"Libra esterlina","symbol":"£","decimals":2,"locale":"en_GB"}
+]
