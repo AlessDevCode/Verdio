@@ -73,4 +73,22 @@ Este proyecto se distribuye bajo los términos de la **MIT License (Non-Commerci
 
 ---
 
-Desarrollado con ❤️ por **[Alessandro (AlessDevCode)](https://github.com/AlessDevCode)**.
+## ☕ Apoya el Proyecto
+
+**Verdio** es un proyecto independiente, de código abierto y completamente gratuito para uso personal. Si la aplicación te resulta útil y deseas apoyar su desarrollo continuo, ¡cualquier contribución es enormemente apreciada!
+
+<div align="center">
+
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Buy%20me%20a%20coffee-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/alesdevcode)
+
+<br/>
+
+### 🇵🇪 Donaciones mediante Yape (Perú)
+
+Puedes escanear el código QR directamente desde tu aplicación:
+
+| Código QR Yape | Titular |
+| :---: | :--- |
+| <img src="QR.jpeg" width="180" alt="QR Yape"/> | **Nombre:** Alessandro<br/>**Moneda:** PEN (Soles) |
+
+</div>
